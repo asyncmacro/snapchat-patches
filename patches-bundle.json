@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-19T12:45:59",
-  "description": "## 1.0.0 (2026-09-19)\n\n### ✨ New Features\n\n* add snapchat source skeleton with pinned-version scaffolding ([8068711](https://github.com/asyncmacro/snapchat-patches/commit/8068711efe13d65cdbf6d760291c90976548a99a))",
-  "download_url": "https://github.com/asyncmacro/snapchat-patches/releases/download/v1.0.0/patches-1.0.0.mpp",
+  "created_at": "2026-09-19T12:59:07",
+  "description": "## [0.1.0-dev.1](https://github.com/asyncmacro/snapchat-patches/compare/v0.0.0...v0.1.0-dev.1) (2026-09-19)\n\n### ✨ New Features\n\n* pin Snapchat 14.20.0.50 as target version ([148b45b](https://github.com/asyncmacro/snapchat-patches/commit/148b45b0be4f98072af52899d4835dfabb291de2))",
+  "download_url": "https://github.com/asyncmacro/snapchat-patches/releases/download/v0.1.0-dev.1/patches-0.1.0-dev.1.mpp",
   "signature_download_url": "",
-  "version": "1.0.0"
+  "version": "0.1.0-dev.1"
 }
