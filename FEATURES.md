@@ -5,4 +5,5 @@ One row per feature. Statuses: `todo` / `wip` / `done` (tested on device) / `blo
 
 | Feature | Tier | Status | Patch name | Notes |
 |---------|------|--------|-----------|-------|
-| _(none yet — first patch TBD after version pin)_ | A | todo | — | — |
+| Pipeline stub (no-op, verifies build/load/apply) | A | wip | Pipeline stub | No fingerprint by design; remove once real patches land |
+| _(next real patch TBD)_ | A | todo | — | — |
