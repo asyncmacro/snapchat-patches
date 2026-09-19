@@ -1,3 +1,9 @@
+## [0.1.0](https://github.com/asyncmacro/snapchat-patches/compare/v0.0.0...v0.1.0) (2026-09-19)
+
+### ✨ New Features
+
+* pin Snapchat 14.20.0.50 as target version ([148b45b](https://github.com/asyncmacro/snapchat-patches/commit/148b45b0be4f98072af52899d4835dfabb291de2))
+
 ## 1.0.0 (2026-09-19)
 
 ### ✨ New Features
