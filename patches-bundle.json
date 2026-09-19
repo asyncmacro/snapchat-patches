@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-19T13:02:41",
-  "description": "## [0.1.0](https://github.com/asyncmacro/snapchat-patches/compare/v0.0.0...v0.1.0) (2026-09-19)\n\n### ✨ New Features\n\n* pin Snapchat 14.20.0.50 as target version ([148b45b](https://github.com/asyncmacro/snapchat-patches/commit/148b45b0be4f98072af52899d4835dfabb291de2))",
-  "download_url": "https://github.com/asyncmacro/snapchat-patches/releases/download/v0.1.0/patches-0.1.0.mpp",
+  "created_at": "2026-09-19T13:19:00",
+  "description": "## [0.2.0](https://github.com/asyncmacro/snapchat-patches/compare/v0.1.0...v0.2.0) (2026-09-19)\n\n### ✨ New Features\n\n* add pipeline stub patch (no-op) ([e42cead](https://github.com/asyncmacro/snapchat-patches/commit/e42ceadf0155f771c071ff4fefa2ace061024781))",
+  "download_url": "https://github.com/asyncmacro/snapchat-patches/releases/download/v0.2.0/patches-0.2.0.mpp",
   "signature_download_url": "",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

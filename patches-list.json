@@ -1,5 +1,33 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "0.1.0",
-  "patches": []
+  "version": "0.2.0",
+  "patches": [
+    {
+      "name": "Pipeline stub",
+      "description": "Changes nothing. Verifies this source builds, loads, and patches cleanly.",
+      "default": true,
+      "category": null,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.snapchat.android",
+          "name": "Snapchat",
+          "description": null,
+          "apkFileType": "APK",
+          "appIconColor": "#FFFC00",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "14.20.0.50",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    }
+  ]
 }

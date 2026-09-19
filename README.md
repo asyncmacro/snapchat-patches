@@ -16,7 +16,22 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v0.1.0](https://github.com/asyncmacro/snapchat-patches/releases/tag/v0.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;0 patches total
+> **[v0.2.0](https://github.com/asyncmacro/snapchat-patches/releases/tag/v0.2.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Snapchat&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 14.20.0.50 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Pipeline stub](#pipeline-stub) | Changes nothing. Verifies this source builds, loads, and patches cleanly. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 
 ### 🛠️ Building locally
