@@ -9,11 +9,10 @@ object Constants {
     const val APP_NAME = "Snapchat"
 
     /**
-     * TODO: set to the exact versionName recorded in PINNED_VERSION.
-     * Kept as a placeholder until the user confirms the pinned version
-     * (AGENTS.md §5: never invent a version number).
+     * Exact versionName recorded in PINNED_VERSION.
+     * All patches in this source target only this version.
      */
-    const val PINNED_VERSION = "0.0.0-PIN-ME"
+    const val PINNED_VERSION = "14.20.0.50"
 
     val COMPATIBILITY_SNAPCHAT = Compatibility(
         name = APP_NAME,
