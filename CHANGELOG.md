@@ -1,4 +1,4 @@
-## [0.2.0-dev.1](https://github.com/asyncmacro/snapchat-patches/compare/v0.1.0...v0.2.0-dev.1) (2026-09-19)
+## [0.2.0](https://github.com/asyncmacro/snapchat-patches/compare/v0.1.0...v0.2.0) (2026-09-19)
 
 ### ✨ New Features
 
