@@ -1,3 +1,9 @@
+## [0.2.0-dev.1](https://github.com/asyncmacro/snapchat-patches/compare/v0.1.0...v0.2.0-dev.1) (2026-09-19)
+
+### ✨ New Features
+
+* add pipeline stub patch (no-op) ([e42cead](https://github.com/asyncmacro/snapchat-patches/commit/e42ceadf0155f771c071ff4fefa2ace061024781))
+
 ## [0.1.0](https://github.com/asyncmacro/snapchat-patches/compare/v0.0.0...v0.1.0) (2026-09-19)
 
 ### ✨ New Features
