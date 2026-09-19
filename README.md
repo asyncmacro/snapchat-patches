@@ -7,6 +7,8 @@ Not affiliated with Snap Inc. or the Morphe project.
 
 Snapchat patches for Morphe, developed slowly one at a time and verified on device.
 
+Pinned target: Snapchat `14.20.0.50` (see `PINNED_VERSION`).
+
 ### How to use these patches
 
 Click here to add these patches to Morphe: https://morphe.software/add-source?github=asyncmacro/snapchat-patches
