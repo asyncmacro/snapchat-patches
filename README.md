@@ -1,16 +1,15 @@
-# 👋🧩 Morphe Patches template
+# 🧩 asyncmacro Snapchat Patches
 
-Template repository for Morphe Patches.
+Unofficial Snapchat (`com.snapchat.android`) patches for Morphe, built from scratch against one pinned version (see `PINNED_VERSION`).
+Not affiliated with Snap Inc. or the Morphe project.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Snapchat patches for Morphe, developed slowly one at a time and verified on device.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=asyncmacro/snapchat-patches
 
 ## 🩹 Patches list
 
@@ -88,4 +87,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+asyncmacro Snapchat Patches are licensed under the [GNU General Public License v3.0](LICENSE)

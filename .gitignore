@@ -128,3 +128,9 @@ node_modules/
 # Ignore IDEA files
 .idea/
 local.properties
+
+# Morphe reference decompile + notes (pinned APK, never committed)
+.cache/
+
+# Local shortcut to shared storage (Download/snap-morphe), never committed
+/dist
